@@ -43,7 +43,11 @@ Start the server
 ```
 
 
-## License and Credits
-This project uses the OpenStreetMap API for mapping functionalities. [OpenStreetMap](https://www.openstreetmap.org/)
+## License and Attribution
+This project uses;
+- OpenStreetMap API for mapping functionalities. [OpenStreetMap](https://www.openstreetmap.org/)
+- Map powered by [Leaflet](https://leafletjs.com/)
+- Data mining by [Overpass API](https://overpass-api.de/)
+
 
 [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)
